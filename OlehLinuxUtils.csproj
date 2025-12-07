@@ -10,7 +10,7 @@
 		<PackageId>OlehLinuxUtils</PackageId>
 		<Version>1.0.0</Version>
 		<Authors>Oleh</Authors>
-		<Description>Linux-like tail and sort utilities implemented in C#</Description>
+		<Description>Tail and sort utilities</Description>
 	</PropertyGroup>
 
 	<ItemGroup>

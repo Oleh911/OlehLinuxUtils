@@ -16,3 +16,4 @@ C:\Users\Lenovo\Documents\Projects\OlehLinuxUtils\OlehLinuxUtils\obj\Debug\net8.
 C:\Users\Lenovo\Documents\Projects\OlehLinuxUtils\OlehLinuxUtils\obj\Debug\net8.0\OlehLinuxUtils.pdb
 C:\Users\Lenovo\Documents\Projects\OlehLinuxUtils\OlehLinuxUtils\obj\Debug\net8.0\OlehLinuxUtils.genruntimeconfig.cache
 C:\Users\Lenovo\Documents\Projects\OlehLinuxUtils\OlehLinuxUtils\obj\Debug\net8.0\ref\OlehLinuxUtils.dll
+C:\Users\Lenovo\Documents\Projects\OlehLinuxUtils\OlehLinuxUtils\obj\Debug\net8.0\OlehLinuxUtils.sourcelink.json

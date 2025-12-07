@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>OlehLinuxUtils</id>
+    <version>1.0.0</version>
+    <authors>Oleh</authors>
+    <description>Tail and sort utilities</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" commit="aa630e45a8ec5071818b021347234dcc9743ea1e" />
+  </metadata>
+  <files>
+    <file src="C:\Users\Lenovo\Documents\Projects\OlehLinuxUtils\OlehLinuxUtils\obj\DotnetToolSettings.xml" target="tools\net8.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\Lenovo\Documents\Projects\OlehLinuxUtils\OlehLinuxUtils\bin\Release\net8.0\publish\OlehLinuxUtils.dll" target="tools\net8.0\any\OlehLinuxUtils.dll" />
+    <file src="C:\Users\Lenovo\Documents\Projects\OlehLinuxUtils\OlehLinuxUtils\bin\Release\net8.0\publish\OlehLinuxUtils.deps.json" target="tools\net8.0\any\OlehLinuxUtils.deps.json" />
+    <file src="C:\Users\Lenovo\Documents\Projects\OlehLinuxUtils\OlehLinuxUtils\bin\Release\net8.0\publish\OlehLinuxUtils.runtimeconfig.json" target="tools\net8.0\any\OlehLinuxUtils.runtimeconfig.json" />
+    <file src="C:\Users\Lenovo\Documents\Projects\OlehLinuxUtils\OlehLinuxUtils\bin\Release\net8.0\publish\OlehLinuxUtils.pdb" target="tools\net8.0\any\OlehLinuxUtils.pdb" />
+    <file src="C:\Users\Lenovo\Documents\Projects\OlehLinuxUtils\OlehLinuxUtils\bin\Release\net8.0\publish\Spectre.Console.dll" target="tools\net8.0\any\Spectre.Console.dll" />
+    <file src="C:\Users\Lenovo\Documents\Projects\OlehLinuxUtils\OlehLinuxUtils\bin\Release\net8.0\publish\Spectre.Console.Cli.dll" target="tools\net8.0\any\Spectre.Console.Cli.dll" />
+  </files>
+</package>
